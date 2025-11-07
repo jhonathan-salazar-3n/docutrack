@@ -482,3 +482,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+# Regla de negación para asegurar que Git rastree la carpeta principal del proyecto
+!DocuTrack.App/
